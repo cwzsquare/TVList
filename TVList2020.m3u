@@ -952,13 +952,13 @@ http://audiolive.rbc.cn:1935/live/fm1039/96K/tzwj_video.m3u8
 #EXTINF:-1 group-title="地方台",泉州综合
 http://118.123.60.12:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_chan_hls_se_idx=002&Provider_id=&Pcontent_id=index.m3u8
 #EXTINF:-1 group-title="地方台",福州综合
-http://ls.qingting.fm/live/1861.m3u8
+http://live.zohi.tv/video/s10001-FZTV-1/index.m3u8
 #EXTINF:-1 group-title="地方台",福州影视
-http://ls.qingting.fm/live/4911.m3u8
+http://live.zohi.tv/video/s10001-yspd-2/index.m3u8
 #EXTINF:-1 group-title="地方台",福州生活
-http://lb.streaming.sk/fashiontv/stream/playlist.m3u8
+http://live.zohi.tv/video/s10001-shpd-3/index.m3u8
 #EXTINF:-1 group-title="地方台",福州少儿
-http://ls.qingting.fm/live/4857.m3u8
+http://live.zohi.tv/video/s10001-sepd-4/index.m3u8
 #EXTINF:-1 group-title="地方台",石狮综合
 http://yf.m.l.cztv.com/channels/lantian/audio05/128k.m3u8
 #EXTINF:-1 group-title="地方台",叶县一套
